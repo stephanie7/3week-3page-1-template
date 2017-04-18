@@ -1,5 +1,5 @@
 body {
-background: #009F88;
+background: white;
 }
 div.header ul {
 height: 72px;
@@ -85,7 +85,10 @@ margin-top: 80px;
 width: 90%;
 }
 #welcome ul {
-padding: 80px;
+padding-top: 80px;
+padding-bottom: 80px;
+padding-left: 0px;
+padding-right: 0px;
 list-style-type: none;
 text-align: center;
 font-family: Open Sans,Helvetica,arial;
